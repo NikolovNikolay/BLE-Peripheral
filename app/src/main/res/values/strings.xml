@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Advertizer</string>
+
+    <string name="advertise_service_uuid">3A4BD314-6A44-43E2-AFAA-847E8C245A90</string>
+
+    <string name="btn_active_tag">active</string>
+
+    <!--Button labels-->
+    <string name="advertise_btn_start">START ADVERTISE</string>
+    <string name="advertise_btn_stop">STOP ADVERTISE</string>
+
+    <string name="receive_btn_start">START LISTENING</string>
+    <string name="receive_btn_stop">STOP LISTENING</string>
+</resources>
