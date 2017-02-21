@@ -1,10 +1,11 @@
-package advertizer.ibm.com.advertizer;
+package advertizer.ibm.com.advertizer.activities;
 
 import android.content.pm.PackageManager;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.Toast;
 
+import advertizer.ibm.com.advertizer.Constants;
 import advertizer.ibm.com.advertizer.utils.PermissionModule;
 
 /**
